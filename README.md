@@ -19,3 +19,6 @@ steps:
    
 6. done, now just open the WinChess folder in CMD and type(python winchess.py)
    ![Screenshot (3)](https://github.com/itsmohitshekhawat/Winchess/assets/116826881/29fc7cac-3692-4aec-9bde-224ee0931711)
+
+   game results:
+   ![Screenshot_20230926-204812](https://github.com/itsmohitshekhawat/Winchess/assets/116826881/ff854e6e-ce7a-4e77-a18c-31d1bc7c684a)
