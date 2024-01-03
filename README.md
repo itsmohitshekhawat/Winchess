@@ -11,7 +11,7 @@ steps:
    
 3. download and install python (https://www.python.org/downloads/)
    
-4. open CMD and check python version by typing(python --version). if showing, means installed
+4. open CMD and check python version by typing 'python --version'. if showing, means installed
    ![Screenshot (1)](https://github.com/itsmohitshekhawat/Winchess/assets/116826881/3876b17f-74fe-47b7-b665-cf4aa6f356c1)
    
 5. open CMD and install chess module by typing(pip install chess)
