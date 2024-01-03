@@ -11,15 +11,13 @@ steps:
    
 3. download and install python (https://www.python.org/downloads/)
    
-4. open CMD and check python version by typing 'python --version'. if showing, means installed
-5. '''bash
-6. python --version
+4. open CMD and check python version by typing (python --version). if showing, means installed
    ![Screenshot (1)](https://github.com/itsmohitshekhawat/Winchess/assets/116826881/3876b17f-74fe-47b7-b665-cf4aa6f356c1)
    
-7. open CMD and install chess module by typing(pip install chess)
+5. open CMD and install chess module by typing(pip install chess)
    ![Screenshot (2)](https://github.com/itsmohitshekhawat/Winchess/assets/116826881/0ca5c3b0-fbe8-4d36-9fbf-9ff5ad959553)
    
-8. done, now just open the WinChess folder in CMD and type(python winchess.py)
+6. done, now just open the WinChess folder in CMD and type(python winchess.py)
    ![Screenshot (3)](https://github.com/itsmohitshekhawat/Winchess/assets/116826881/29fc7cac-3692-4aec-9bde-224ee0931711)
 
    game results:
